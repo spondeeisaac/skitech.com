@@ -5,7 +5,7 @@
   Paste the deployment URL ending in /exec between the quotes. Never paste sheet
   credentials or private keys here. This JS file is public on GitHub Pages.
 */
-const SKITECH_APPS_SCRIPT_URL = 'PASTE_YOUR_DEPLOYED_WEB_APP_URL_HERE';
+const SKITECH_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz2fGLmg4pLhChaujg31-wWuGuJC_0jwX5W7zw68_zXnrMUOsim05ETmdXSys9Tn0y4RQ/exec';
 
 const menuToggle = document.querySelector('.menu-toggle');
 const mainNav = document.querySelector('.main-nav');
