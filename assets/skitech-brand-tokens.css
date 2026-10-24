@@ -1,0 +1,13 @@
+/* SKITECH design tokens — keep these values consistent across website and apps. */
+:root {
+  --skitech-navy: #0B223D;
+  --skitech-gold: #D4A017;
+  --skitech-background: #F5F7FA;
+  --skitech-text: #334155;
+  --skitech-muted: #64748B;
+  --skitech-white: #FFFFFF;
+  --skitech-radius: 12px;
+  --skitech-shadow: 0 12px 32px rgba(11,34,61,.10);
+  --skitech-font-heading: 'Poppins', 'Inter', Arial, sans-serif;
+  --skitech-font-body: 'Inter', Arial, sans-serif;
+}
